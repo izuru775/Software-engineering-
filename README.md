@@ -1,2 +1,2 @@
-# Software-engineering
+# software-engineering
 Some description
